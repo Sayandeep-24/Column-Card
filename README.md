@@ -4,7 +4,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: https://sayandeep-24.github.io/Column-Card/
 
 ### Built with
 
